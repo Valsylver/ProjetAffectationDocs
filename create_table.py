@@ -30,7 +30,31 @@ Prenom = ['Rosemarie', 'Zoe', 'Agathe', 'Etienne', 'Scoville', 'Chrisitan',
           'Florian', 'George', 'Gianni', 'Gerd', 'Franz', 'Oleg', 
           'Allan', 'Kevin', 'Karl', 'Paolo', 'Marco', 'Roberto',
           'Michael', 'Pavel', 'Andrei', 'Massimo', 'Yannick', 'Josephine',
-          'Pascal', 'Zoe', 'William', 'France']
+          'Pascal', 'Zoe', 'William', 'France', 'Aaron', 'Achille', 'Adam',
+          'Adeline', 'Baldric', 'Baptiste', 'Barnabe', 'Balthazar', 'Callista',
+          'Calvin', 'Camron', 'Camille', 'Carla', 'Clara', 'Damien', 'Dana',
+          'Davy', 'David', 'Eden', 'Edouard', 'Elisa', 'Elise',
+          'Fabien', 'Fabiola', 'Fabrice', 'Fanny',
+          'Gabin', 'Gael', 'Gaspard', 'Gaston',
+          'Hercule', 'Harrison', 'Henri', 'Heloise',
+          'Igor', 'Ignace', 'Iliane', 'Isabelle',
+          'Jordan', 'Jeremie', 'Jacob', 'Jacques',
+          'Kate', 'Karim', 'Kamel', 'Karine',
+          'Ludovic', 'Lucile', 'Laly', 'Laurine',
+          'Madeleine', 'Madison', 'Magalie', 'Maelle',
+          'Ninon', 'Nadege', 'Nadia', 'Nadine',
+          'Octave', 'Oscar', 'Oceane', 'Odelie',
+          'Pascal', 'Pascalle', 'Paul', 'Pauline',
+          'Quentin', 'Quitterie', 'Quit', 'Qurt',
+          'Rachel', 'Rafael', 'Randy', 'Rafaela',
+          'Sophie', 'Sophia', 'Seal', 'Sara',
+          'Tamara', 'Tanguy', 'Tara', 'Tatiana',
+          'Ulric', 'Ulysse', 'Urbain', 'Ulrick',
+          'Victoria', 'Valentin', 'Valerien', 'Valery',
+          'Wali', 'Wilfired', 'Wendy', 'William',
+          'Xavier', 'Xavier', 'Xao', 'Xito',
+          'Yasser', 'Younes', 'Yaelle', 'Yannick',
+          'Zahia', 'Zelie', 'Zelda', 'Zacharis']
 
 Nom = ['Doiron', 'Giguere', 'Cressac', 'Quinn', "Daoust", 'Ouellet',
        'Hetu', 'Therriault', 'Tachel', 'Loiseau', 'Aucoin', 'Lejeune',
@@ -66,7 +90,28 @@ Nom = ['Doiron', 'Giguere', 'Cressac', 'Quinn', "Daoust", 'Ouellet',
        'van Basten', 'Gullit', 'Belanov', 'Law', 'Lax', 'Masopust',
        'Albert', 'Best', 'Rivera', 'Beckenbauer', 'Simonsen', 'Keegan',
        'Rummenigge', 'Rossi', 'Greaves', 'Amaro', 'Suarez', 'Riva',
-       'Bergkamp', 'Kopa', 'Edwards', 'Fontaine', 'Schuster', 'Viktor']
+       'Bergkamp', 'Kopa', 'Edwards', 'Fontaine', 'Schuster', 'Viktor',
+       'Martin', 'Bernard', 'Thomas', 'Petit', 'Robert', 'Richard',
+       'Durand', 'Dubois', 'Moreau', 'Laurent', 'Simon', 'Michel', 'Lefebvre',
+       'Leroy', 'Roux', 'David', 'Bertrand', 'Morel', 'Fournier', 'Girard',
+       'Bonnet', 'Dupont', 'Lambert', 'Fontaine', 'Rousseau', 'Vincent', 'Muller',
+       'Lefevre', 'Faure', 'Andre', 'Mercier', 'Blanc', 'Guerin', 'Boyer',
+       'Garnier', 'Chevalier', 'Francois', 'Legrand', 'Gauthier', 'Garcia',
+       'Gaillard', 'Barbier', 'Arnaud', 'Martinez', 'Gerard', 'Roche', 'Renard',
+       'Schmitt', 'Roy', 'Leroux', 'Colin', 'Vidal', 'Caron', 'Picard', 'Roger',
+       'Fabre', 'Aubert', 'Lemoine', 'Renaud', 'Dumas', 'Lacroix', 'Olivier',
+       'Philippe', 'Bourgeois', 'Pierre', 'Benoit', 'Rey', 'Leclerc', 'Payet',
+       'Rolland', 'Leclercq', 'Guillaume', 'Lecomte', 'Lopez', 'Jean', 'Dupuy',
+       'Guillot', 'Hubert', 'Berger', 'Carpentier', 'Sanchez', 'Dupuis', 'Moulin',
+       'Bailly', 'Herve', 'Schneider', 'Fernandez', 'Le Gall', 'Collet', 'Leger',
+       'Bouvier', 'Julien', 'Prevost', 'Millet', 'Perrot', 'Daniel', 'Le Roux',
+       'Cousin', 'Germain', 'Breton', 'Besson', 'Langlois', 'Remy', 'Le Goff',
+       'Pelletier', 'Leveque', 'Perrier', 'Leblanc', 'Barre', 'Lebrun', 'Marchal',
+       'Weber', 'Mallet', 'Hamon', 'Boulanger', 'Jacob', 'Monnier', 'Michaud',
+       'Rodriguez', 'Guichard', 'Gillet', 'Etienne', 'Grondin', 'Poulain', 'Tessier',
+       'Chevallier', 'Bertin', 'Baron', 'Menard', 'Maillard', 'Renault', 'Jacob',
+       'Blacnhard', 'Giraud', 'Joly', 'Meyer', 'Noel', 'Brunet', 'Vasseur', 'Huet',
+       'Boucher', 'Pasquier', 'Barthelemy', 'Cordier', 'Hoareau', 'Antoine', 'Da Silva']
 
 ue_S5 = ['ALG-1', 'DPP-1', 'ELE-1', 'INP-1', 'LCI-1', 'MAT-1', 'MGP-1', 'PHO-1',
          'PHQ-1', 'SPM-1']
@@ -133,31 +178,72 @@ f.write("sem varchar(5),\n")
 f.write("nom varchar(255),\n")
 f.write("code_ue varchar(10)\n")
 f.write(");\n\n")
+f.write("create table cesure (\n")
+f.write("nom varchar(255),\n")
+f.write("ces varchar(10)\n")
+f.write(");\n\n")
+
+logins = []
 
 def fill():
     full_name = generate_name()
-    eleve_string_sql = fill_eleves(full_name)
-    f.write(eleve_string_sql)
-    f.write("\n")
-    notes_details_list_sql = fill_notes_details(full_name)
-    for enregistrement in notes_details_list_sql:
-        f.write(enregistrement)
+    
+    listeNom = full_name.split(' ')
+    prenom = listeNom[0]
+    if len(listeNom) == 2:
+        nom = listeNom[1]
+    else:
+        nom = listeNom[1] + " " + listeNom[2]
+    login = prenom[0].lower() + nom.lower()
+
+    if login not in logins:
+        eleve_string_sql = fill_eleves(full_name)
+        f.write(eleve_string_sql)
         f.write("\n")
-    gpa_list_sql = fill_gpa(full_name)
-    for enregistrement in gpa_list_sql:
-        f.write(enregistrement)
-        f.write("\n")       
+        notes_details_list_sql = fill_notes_details(full_name)
+        for enregistrement in notes_details_list_sql:
+            f.write(enregistrement)
+            f.write("\n")
+        gpa_list_sql = fill_gpa(full_name)
+        for enregistrement in gpa_list_sql:
+            f.write(enregistrement)
+            f.write("\n")
+        logins.append(login)
+        if indexYear == 2:
+            nbre_aleatoire = random.randint(1, 10)
+            if nbre_aleatoire >= 8:
+                f.write(fill_cesure(full_name))
+                f.write("\n")
+
+def fill_cesure(full_name):
+    return sql_start("cesure") + add_quote(full_name) + ", " + add_quote("CESURE") + sql_end
 
 def fill_eleves(full_name):
-    [prenom, nom] = full_name.split(' ')
+    listeNom = full_name.split(' ')
+    prenom = listeNom[0]
+    if len(listeNom) == 2:
+        nom = listeNom[1]
+    else:
+        nom = listeNom[1] + " " + listeNom[2]
     login = prenom[0].lower() + nom.lower()
     nbre_aleatoire = random.randint(1, 10)
-    if nbre_aleatoire <= 9:
+    if nbre_aleatoire <= 8:
         entree_fil = "MP"
     else:
-        entree_fil = "etranger"
+        if nbre_aleatoire == 9:
+            entree_fil = "Etranger"
+        else:
+            entree_fil = "Credits"
+    if indexYear == 2:
+        nbre_aleatoire = random.randint(1, 10)
+        if nbre_aleatoire <= 9:
+            cesure = "null"
+        else:
+            cesure = add_quote("oui")
+    else:
+        cesure = "null"
     eleve_sql = sql_start("eleves") + add_quote(full_name) + ", " + str(1) + ", " + add_quote("S") + ", " + add_quote("Tres bien") + ", "
-    eleve_sql += add_quote(entree_fil) + ", " + add_quote("MP") + ", " + add_quote(login) + sql_end
+    eleve_sql += add_quote(entree_fil) + ", null" + ", " + add_quote(login) + sql_end
     return eleve_sql
 
 def add_quote(mot):
@@ -171,8 +257,12 @@ def fill_gpa():
     pass
 
 def fill_notes_details(full_name):
-    cycle1 = '2011-2012'
-    cycle2 = '2012-2013'
+    if indexYear == 1:
+        cycle1 = '2011-2012'
+        cycle2 = '2012-2013'
+    else:
+        cycle1 = '2010-2011'
+        cycle2 = '2011-2012'
     ue_list = []
     for (index, ue) in enumerate(ue_S5):
         semestre = 'SEM-5'
@@ -250,17 +340,24 @@ def fill_gpa(full_name):
     sql_list = []
     for (index, semestre) in enumerate(['SEM-5', 'SEM-6', 'SEM-7']):
         if index != 2:
-            cycle = "2011-2012"
+            if indexYear == 1:
+                cycle = "2011-2012"
+            else:
+                cycle = "2010-2011"
         else:
-            cycle = "2012-2013"
+            if indexYear == 1:
+                cycle = "2012-2013"
+            else:
+                cycle = "2011-2012"
         grade_gpa = round(2.0 + random.random() * 2, 2)
         s = sql_start("gpa") + add_quote(cycle) + ", " + add_quote(semestre) + ", " + add_quote(full_name) + ", " + str(grade_gpa) + sql_end
         sql_list.append(s)
     return sql_list
 
-
-
-for i in range(175):
+for i in range(100):
+    indexYear = 1
+    fill()
+    indexYear = 2
     fill()
 f.close()  
         
